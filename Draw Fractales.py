@@ -56,10 +56,6 @@ def draw_fractal():
 
     draw_fractal(5)
 
-    
-    
-    print pin.position()
-
     window.exitonclick()
 
 draw_fractal()
